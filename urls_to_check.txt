@@ -1,0 +1,5 @@
+{'url': 'http://10tovanot.co.il/', 'date': None, 'Notifier': None, 'OS': None, 'person': 'miri sananes', 'phone': '+972 2 6796975', 'email': 'm@pilpelim.com', 'ip_of_server': '107.180.21.230'}
+{'url': 'http://foodprofessor.co.il/', 'date': None, 'Notifier': None, 'OS': None, 'person': 'miri sananes', 'phone': '+972 2 6796975', 'email': 'm@pilpelim.com', 'ip_of_server': '107.180.21.230'}
+{'url': 'http://lamusic.co.il/', 'date': None, 'Notifier': None, 'OS': None, 'person': 'miri sananes', 'phone': '+972 2 6796975', 'email': 'm@pilpelim.com', 'ip_of_server': '107.180.21.230'}
+
+{'url': 'http://scce.co.il/', 'date': None, 'Notifier': None, 'OS': None, 'person': 'Interspace Domreg', 'phone': '+972 73 2224440', 'email': 'domreg@interspace.net', 'ip_of_server': '80.244.169.119'} 
