@@ -39,6 +39,7 @@ def listen_to_messages(event):
             with open("urls_to_check.txt", 'a', encoding='utf-8') as file:
                 file.write(f"{dictionary} \n")
 
+
 SESSION_NAME = 'your_session_name'
 
 client = TelegramClient(SESSION_NAME, API_ID, API_HASH)
